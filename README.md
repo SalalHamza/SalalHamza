@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalalHamza
-- 👀 I’m interested in Front end Development
-- 🌱 I’m currently learning Full stack Development
+- 👀 I’m interested in Project Management
+- 🌱 I’m currently learning Full stack Web Development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me salalhamza@gmail.com
 
