@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SalalHamza
-- 👀 I’m interested in Project Management
-- 🌱 I’m currently learning Full stack Web Development
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in DevOps Engineering
+- 🌱 I’m currently learning DevOps 
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me salalhamza@gmail.com
 
 <!---
